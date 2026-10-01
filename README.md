@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋, This is Syed Fahmid Ahmed Siam.</h5>
 <h3 align="center">A passionate CSE Student from your neighborhood!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmid-ahmed-siam&label=Profile%20views&color=0e75b6&style=flat" alt="fahmid-ahmed-siam" /> </p>
+- 🌱 I’m currently learning **Branches of programming languages**
 
-- 🌱 I’m currently learning **Glut,JavaScript**
-
-- 👯 I’m looking to collaborate on **C#**
+- 👯 I’m looking to collaborate on **IoT based projects**
 
 - 🤝 I’m looking for help with **Cybersecurity**
 
